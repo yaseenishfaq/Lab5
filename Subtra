@@ -1,0 +1,3 @@
+int a=50;
+int b=50;
+Console.WriteLine("Subtraction is" "= a-b);
